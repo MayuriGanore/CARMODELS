@@ -223,5 +223,13 @@
    "Mileage" : "16.39 kmpl", 
    "Price" : "Rs.7.50 Cr",
 },
+{
+   "id" : 39
+   "Car company" : "Maruti Suzuki", 
+   "Car model" : "Wagon R", 
+   "Colour" : "White", 
+   "Mileage" : "appox. 23.5 kmpl", 
+   "Price" : "₹ 5.47 Lakh"
+  },
 
 ]
